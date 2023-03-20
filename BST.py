@@ -1,0 +1,2 @@
+def BST():
+    print("BST")
