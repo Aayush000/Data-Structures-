@@ -77,3 +77,7 @@ root = TreeNode(7,
 print(max_value(root))
 print(most_common_value(root))
 print(height(root))
+
+
+# Height of a perfect binary tree with n nodes
+# h is O(log2(n))
